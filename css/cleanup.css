@@ -1,1 +1,22 @@
-/* write your override styles here */
+body{
+   background: fixed; 
+   display: block;
+}
+#wall {
+    background-color: aliceblue;
+    display: inline;
+    font: optional;
+    align-items: baseline;
+}
+#tag-1 {
+font-size: large;
+font-variant: normal;
+display: block;
+}
+#tag-2{
+ background: fixed; 
+ display: block;  
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 100;
+ font: 100;
+}
